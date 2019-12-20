@@ -1,0 +1,2 @@
+(this.webpackJsonpportifolio=this.webpackJsonpportifolio||[]).push([[0],{3:function(n,t,e){n.exports=e(9)},8:function(n,t,e){},9:function(n,t,e){"use strict";e.r(t);var o=e(0),r=e.n(o),i=e(2),u=e.n(i);e(8);var c=function(){return r.a.createElement("h1",null,"Ol\xe1 Mundo")};u.a.render(r.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.0de6c75f.chunk.js.map
