@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/portifolio/static/js/main.0d4e6d7c.chunk.js",
-    "main.js.map": "/portifolio/static/js/main.0d4e6d7c.chunk.js.map",
+    "main.js": "/portifolio/static/js/main.5c064edc.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.5c064edc.chunk.js.map",
     "runtime-main.js": "/portifolio/static/js/runtime-main.18b5140e.js",
     "runtime-main.js.map": "/portifolio/static/js/runtime-main.18b5140e.js.map",
     "static/js/2.3d756fbe.chunk.js": "/portifolio/static/js/2.3d756fbe.chunk.js",
     "static/js/2.3d756fbe.chunk.js.map": "/portifolio/static/js/2.3d756fbe.chunk.js.map",
     "index.html": "/portifolio/index.html",
-    "precache-manifest.85361fca363612b4711fbdee03eff93f.js": "/portifolio/precache-manifest.85361fca363612b4711fbdee03eff93f.js",
+    "precache-manifest.2a2c96c11378115c68cbfe396f3ab743.js": "/portifolio/precache-manifest.2a2c96c11378115c68cbfe396f3ab743.js",
     "service-worker.js": "/portifolio/service-worker.js",
     "static/js/2.3d756fbe.chunk.js.LICENSE": "/portifolio/static/js/2.3d756fbe.chunk.js.LICENSE",
     "static/media/GymPoint.png": "/portifolio/static/media/GymPoint.94078428.png"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.18b5140e.js",
     "static/js/2.3d756fbe.chunk.js",
-    "static/js/main.0d4e6d7c.chunk.js"
+    "static/js/main.5c064edc.chunk.js"
   ]
 }
